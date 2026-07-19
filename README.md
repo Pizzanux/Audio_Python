@@ -1,5 +1,6 @@
 ===================================
-###Generate blues form from:
+### Project: Scamp_Blues
+#### Generate blues form from:
     - Tone
     - Bpm  
     - Quantity of chorus
